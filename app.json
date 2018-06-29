@@ -49,7 +49,7 @@
         "text": "消息"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/userLogin/login",
         "iconPath": "static/images/ic_menu_me_nor.png",
         "selectedIconPath": "static/images/ic_menu_me_pressed.png",
         "text": "我"
